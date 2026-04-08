@@ -74,8 +74,7 @@ Ejecuta el binario:
 Bash
 
 ./quicksort
+
 Salida Esperada:
-
-
 Arreglo original: 10 80 30 90 40 50 70 
 Arreglo ordenado con QuickSort: 10 30 40 50 70 80 90
