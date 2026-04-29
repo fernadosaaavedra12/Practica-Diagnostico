@@ -1,4 +1,4 @@
-# Practica-Diagnostico
+# Practica-Microevaluacion 
  Crear un juego por consola Tresn en raya o Ahorcado
 # 🧗‍♂️ Juego del Ahorcado 
 
