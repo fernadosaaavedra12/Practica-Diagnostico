@@ -1,4 +1,4 @@
-# Practica-Diagnostico
+# Practica-Microevaluacion 
  Crear un juego por consola Tresn en raya o Ahorcado
 # 🧗‍♂️ Juego del Ahorcado 
 
@@ -25,13 +25,21 @@ El código está dividido en 4 módulos principales para mantener una estructura
 * `arte.py`: Almacena las representaciones visuales (Arte ASCII) de las diferentes fases del ahorcado que se imprimen en la terminal.
 * `palabras.py`: Funciona como la base de datos del juego. Contiene un diccionario con las palabras posibles y su respectiva pista asociada.
 
-## 🚀 Cómo ejecutarlo
+## 🚀 Instalación y Ejecución
 
-### Requisitos previos
-* Tener **Python 3** instalado en tu sistema.
+Sigue estos pasos para ejecutar el juego en tu entorno local (Linux/Windows/Mac):
 
-### Instrucciones
-1. Abre tu terminal.
-2. Navega hasta el directorio donde se encuentran los archivos del juego:
-   ```bash
-   cd ruta/a/tu/carpeta/ahorcado
+    Clonar el repositorio:
+    Bash
+
+    git clone https://github.com/tu-usuario/ESTRUCTURA_DE_DATOS.git
+
+    Navegar al directorio:
+    Bash
+
+    cd ESTRUCTURA_DE_DATOS/ahorcado
+
+    Ejecutar:
+    Bash
+
+    python3 main.py

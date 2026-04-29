@@ -1,7 +1,7 @@
 # logica.py
 import readline
 import random
-from palabras import LISTA_PALABRAS
+from ahorcado.palabras import LISTA_PALABRAS
 from arte import FASES
 
 class JuegoAhorcado:
