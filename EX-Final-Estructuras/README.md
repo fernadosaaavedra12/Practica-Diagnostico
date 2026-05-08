@@ -92,3 +92,47 @@ Sigue estos pasos en tu terminal (especialmente optimizado para entornos **Linux
 ### Bash
 
 # dotnet run
+
+
+```
+merdmaid
+flowchart TD
+    subgraph "🌐 Network Traffic Simulator & Security Filter"
+        direction TB
+        
+        A[Program.cs\nPunto de Entrada] --> B[Services]
+        B --> C[Structures]
+        B --> D[Models]
+        
+        subgraph "📁 Models"
+            D1[Packet.cs]
+            D2[Node.cs]
+        end
+        
+        subgraph "🛠️ Structures - Estructuras de Datos"
+            C1[CustomQueue\nLinked List Queue\nFIFO - O(1)]
+            C2[SimpleHashTable\nHash con Chaining\nO(1) promedio]
+            C3[DoubleLinkedList\nHistorial de Auditoría\nBidireccional + Límite 100]
+        end
+        
+        subgraph "⚙️ Services"
+            B1[NetworkService\nOrquestador principal]
+            B2[FirewallService\nUsa HashTable]
+            B3[AuditService\nUsa DoubleLinkedList]
+            B4[TrafficProcessor\nUsa CustomQueue]
+        end
+        
+        style A fill:#4ade80,stroke:#166534
+        style C fill:#60a5fa,stroke:#1e40af
+        style D fill:#f472b6,stroke:#831843
+        style B fill:#c084fc,stroke:#6b21a8
+    end
+
+    PacketFlow[Paquetes de Red Entrada] --> C1
+    C1 --> B4
+    B4 --> B2
+    B2 -->|"Permitido"| B3
+    B2 -->|"Bloqueado"| Log[🔴 Log de Bloqueo]
+    
+    click A "Program.cs" "Punto de entrada del simulador"
+    ```
