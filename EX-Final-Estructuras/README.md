@@ -93,46 +93,47 @@ Sigue estos pasos en tu terminal (especialmente optimizado para entornos **Linux
 
 # dotnet run
 
-
-```
-merdmaid
+```mermaid
 flowchart TD
-    subgraph "🌐 Network Traffic Simulator & Security Filter"
-        direction TB
-        
-        A[Program.cs\nPunto de Entrada] --> B[Services]
-        B --> C[Structures]
-        B --> D[Models]
-        
-        subgraph "📁 Models"
-            D1[Packet.cs]
-            D2[Node.cs]
-        end
-        
-        subgraph "🛠️ Structures - Estructuras de Datos"
-            C1[CustomQueue\nLinked List Queue\nFIFO - O(1)]
-            C2[SimpleHashTable\nHash con Chaining\nO(1) promedio]
-            C3[DoubleLinkedList\nHistorial de Auditoría\nBidireccional + Límite 100]
-        end
-        
-        subgraph "⚙️ Services"
-            B1[NetworkService\nOrquestador principal]
-            B2[FirewallService\nUsa HashTable]
-            B3[AuditService\nUsa DoubleLinkedList]
-            B4[TrafficProcessor\nUsa CustomQueue]
-        end
-        
-        style A fill:#4ade80,stroke:#166534
-        style C fill:#60a5fa,stroke:#1e40af
-        style D fill:#f472b6,stroke:#831843
-        style B fill:#c084fc,stroke:#6b21a8
+
+    A[Network Traffic Simulator Security Filter System]
+
+    B[Incoming Network Packets]
+    C[CustomQueue FIFO O1]
+    D[Traffic Processor]
+    E[SimpleHashTable Firewall Cache O1]
+    F[Blocked Packet Security Log]
+    G[DoubleLinkedList Audit History Limit 100]
+    H[Audit Report]
+
+    B --> C
+    C --> D
+    D --> E
+
+    E -->|Blocked| F
+    E -->|Allowed| G
+
+    G --> H
+
+    subgraph CleanArchitecture
+
+        I[Models Packet.cs HistoryNode.cs]
+
+        J[Structures CustomQueue HashTable DoubleLinkedList]
+
+        K[Services NetworkSimulator]
+
+        I --> J
+        J --> K
+
     end
 
-    PacketFlow[Paquetes de Red Entrada] --> C1
-    C1 --> B4
-    B4 --> B2
-    B2 -->|"Permitido"| B3
-    B2 -->|"Bloqueado"| Log[🔴 Log de Bloqueo]
-    
-    click A "Program.cs" "Punto de entrada del simulador"
-    ```
+    K -.-> C
+    K -.-> E
+    K -.-> G
+
+    style A fill:#1e3a8a,color:#ffffff
+    style C fill:#22d3ee,color:#000000
+    style E fill:#f87171,color:#000000
+    style G fill:#a78bfa,color:#000000
+```
