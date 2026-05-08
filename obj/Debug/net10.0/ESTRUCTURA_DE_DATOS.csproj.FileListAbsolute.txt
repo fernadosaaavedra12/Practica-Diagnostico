@@ -1,0 +1,15 @@
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/bin/Debug/net10.0/ESTRUCTURA_DE_DATOS
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/bin/Debug/net10.0/ESTRUCTURA_DE_DATOS.deps.json
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/bin/Debug/net10.0/ESTRUCTURA_DE_DATOS.runtimeconfig.json
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/bin/Debug/net10.0/ESTRUCTURA_DE_DATOS.dll
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/bin/Debug/net10.0/ESTRUCTURA_DE_DATOS.pdb
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.AssemblyInfoInputs.cache
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.AssemblyInfo.cs
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.sourcelink.json
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.dll
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/refint/ESTRUCTURA_DE_DATOS.dll
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.pdb
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ESTRUCTURA_DE_DATOS.genruntimeconfig.cache
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/obj/Debug/net10.0/ref/ESTRUCTURA_DE_DATOS.dll
