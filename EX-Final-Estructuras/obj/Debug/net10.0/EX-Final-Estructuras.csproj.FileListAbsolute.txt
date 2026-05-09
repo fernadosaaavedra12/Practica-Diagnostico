@@ -1,0 +1,15 @@
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/bin/Debug/net10.0/EX-Final-Estructuras
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/bin/Debug/net10.0/EX-Final-Estructuras.deps.json
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/bin/Debug/net10.0/EX-Final-Estructuras.runtimeconfig.json
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/bin/Debug/net10.0/EX-Final-Estructuras.dll
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/bin/Debug/net10.0/EX-Final-Estructuras.pdb
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.AssemblyInfoInputs.cache
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.AssemblyInfo.cs
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.sourcelink.json
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.dll
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/refint/EX-Final-Estructuras.dll
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.pdb
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/EX-Final-Estructuras.genruntimeconfig.cache
+/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/obj/Debug/net10.0/ref/EX-Final-Estructuras.dll

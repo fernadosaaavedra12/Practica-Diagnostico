@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9s/e7K18unQ=",
+  "success": true,
+  "projectFilePath": "/home/fernando/Documentos/ESTRUCTURA_DE_DATOS/EX-Final-Estructuras/EX-Final-Estructuras.csproj",
+  "expectedPackageFiles": [
+    "/home/fernando/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
