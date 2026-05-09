@@ -92,7 +92,7 @@ Sigue estos pasos en tu terminal (especialmente optimizado para entornos **Linux
 ### Bash
 
 # dotnet run
-
+# PARTE GRAFICA
 ```mermaid
 flowchart TD
 
@@ -137,3 +137,18 @@ flowchart TD
     style E fill:#f87171,color:#000000
     style G fill:#a78bfa,color:#000000
 ```
+
+
+## Demostracion de como deve de correr 
+![alt text](../examen.png)
+
+![alt text](examen1.png)
+
+![alt text](examen2.png)
+
+![alt text](examen3.png)
+
+![alt text](examen4.png)
+
+
+imagenes
